@@ -1,0 +1,6 @@
+# my dot env 
+# speech_key=d6c799e4eff44d07b1aac3ef85845392
+# service_region=centralindia
+# AZURE_OPENAI_ENDPOINT=openai/deployments//subscriptions/35c2cc47-9323-4baa-97ae-16af8ef31445/resourceGroups/azure-labs/providers/Microsoft.CognitiveServices/accounts/custom-care-ai-services/deployments/gpt-35-turbo/chat/completions?api-version=2023-03-15-preview
+# AZURE_OPENAI_CHAT_DEPLOYMENT=gpt-35-turbo
+# AZURE_OPENAI_API_VERSION=1106
